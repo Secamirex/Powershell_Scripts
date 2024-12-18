@@ -1,4 +1,4 @@
-# PowerShell Base64 encoded script investigation
+# PowerShell encoded script investigation
 
 The following suspicious PowerShell-encoded script has been received.  Let's look into the contents of the script and try to unveil its true nature and potential risks.
 
